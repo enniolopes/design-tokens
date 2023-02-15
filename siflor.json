@@ -1,0 +1,21 @@
+{
+  "global": {
+    "main": {
+      "value": "#20f004",
+      "type": "color"
+    }
+  },
+  "semantic": {
+    "primary": {
+      "value": "{main}",
+      "type": "color"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "semantic"
+    ]
+  }
+}
